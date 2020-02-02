@@ -10,11 +10,11 @@ body {
   color: #555;
 }
 
-h1, h2, h3, h4, h5, h6 {
+/*h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans";
   font-weight: 300;
   color: #333;
-}
+}*/
 
 
 .centered {
@@ -107,11 +107,21 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /* time line*/
+
+#timeline {
+  color: #87ceeb;
+  font-weight: 400;
+  padding-top: 30px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
 .timeline {
   list-style: none;
   padding: 20px 0 20px;
   position: relative;
 }
+
 .timeline:before {
   top: 0;
   bottom: 0;
@@ -240,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
 /* footer */
 #footer {
   background: #222222;
-  padding: 20px 0;
+  padding: 20px 20px;
   text-align: center;
 }
 
