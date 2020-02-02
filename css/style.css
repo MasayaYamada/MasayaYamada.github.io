@@ -107,8 +107,7 @@ body {
 
 
 /* time line*/
-
-#timeline{
+#timeline h3{
   color: #87ceeb;
   font-weight: 400;
   padding-top: 30px;
