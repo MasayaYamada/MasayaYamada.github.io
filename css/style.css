@@ -10,13 +10,6 @@ body {
   color: #555;
 }
 
-/*h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans";
-  font-weight: 300;
-  color: #333;
-}*/
-
-
 .centered {
   text-align: center;
 }
@@ -242,8 +235,6 @@ body {
 .timeline-body > p + p {
   margin-top: 5px;
 }
-
-
 
 
 /* footer */
