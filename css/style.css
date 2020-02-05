@@ -242,12 +242,11 @@ body {
   padding: 20px 20px;
   text-align: center;
 }
-
-  #footer p {
+#footer p {
     margin-bottom: 5px;
     color: #fff;
-  }
+}
 
-  #footer a {
+#footer a {
     color: #87ceeb;
-  }
+}
