@@ -2,11 +2,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#swift').length) {
 			var doughnutData = [{
 	        value: 150,
-	        color: "#87ceeb"
+	        color: "#4169E1"
 	      },
 	      {
 	        value: 100,
-	        color: "#3c3c3c"
+	        color: "#FFFAFA"
 	      }
 	    ];
 	    var myDoughnut = new Chart(document.getElementById("swift").getContext("2d")).Pie(doughnutData);
@@ -16,11 +16,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#java').length) {
 			var doughnutData = [{
 					value: 150,
-					color: "#87ceeb"
+					color: "#4169E1"
 				},
 				{
 					value: 100,
-					color: "#3c3c3c"
+					color: "#FFFAFA"
 				}
 			];
 			var myDoughnut = new Chart(document.getElementById("java").getContext("2d")).Pie(doughnutData);
@@ -30,11 +30,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#perl').length) {
 			var doughnutData = [{
 					value: 300,
-					color: "#87ceeb"
+					color: "#4169E1"
 				},
 				{
 					value: 100,
-					color: "#3c3c3c"
+					color: "#FFFAFA"
 				}
 			];
 			var myDoughnut = new Chart(document.getElementById("perl").getContext("2d")).Pie(doughnutData);
@@ -44,11 +44,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#shellscript').length) {
 			var doughnutData = [{
 					value: 300,
-					color: "#87ceeb"
+					color: "#4169E1"
 				},
 				{
 					value: 100,
-					color: "#3c3c3c"
+					color: "#FFFAFA"
 				}
 			];
 			var myDoughnut = new Chart(document.getElementById("shellscript").getContext("2d")).Pie(doughnutData);
@@ -59,11 +59,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#html').length) {
 			var doughnutData = [{
 					value: 300,
-					color: "#87ceeb"
+					color: "#4169E1"
 				},
 				{
 					value: 100,
-					color: "#3c3c3c"
+					color: "#FFFAFA"
 				}
 			];
 			var myDoughnut = new Chart(document.getElementById("html").getContext("2d")).Pie(doughnutData);
@@ -74,11 +74,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#css').length) {
 			var doughnutData = [{
 					value: 300,
-					color: "#87ceeb"
+					color: "#4169E1"
 				},
 				{
 					value: 100,
-					color: "#3c3c3c"
+					color: "#FFFAFA"
 				}
 			];
 			var myDoughnut = new Chart(document.getElementById("css").getContext("2d")).Pie(doughnutData);
@@ -88,11 +88,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#javascript').length) {
 			var doughnutData = [{
 					value: 200,
-					color: "#87ceeb"
+					color: "#4169E1"
 				},
 				{
 					value: 100,
-					color: "#3c3c3c"
+					color: "#FFFAFA"
 				}
 			];
 			var myDoughnut = new Chart(document.getElementById("javascript").getContext("2d")).Pie(doughnutData);
@@ -103,11 +103,11 @@ jQuery(document).ready(function( $ ) {
 		if($('#english').length) {
 			var doughnutData = [{
 					value: 400,
-					color: "#87ceeb"
+					color: "#4169E1"
 				},
 				{
 					value: 100,
-					color: "#3c3c3c"
+					color: "#FFFAFA"
 				}
 			];
 			var myDoughnut = new Chart(document.getElementById("english").getContext("2d")).Pie(doughnutData);
