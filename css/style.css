@@ -98,8 +98,6 @@ body {
     text-align: left;
   }
 
-
-
   /* time line*/
   #timeline h3{
     color: #87ceeb;
@@ -236,7 +234,6 @@ body {
   .timeline-body > p + p {
     margin-top: 5px;
   }
-
 
 
 /* footer */
