@@ -10,22 +10,9 @@ body {
   color: #555;
 }
 
-<<<<<<< HEAD
-/*h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans";
-  font-weight: 300;
-  color: #333;
-  }*/
-
-
-  .centered {
-    text-align: center;
-  }
-=======
 .centered {
   text-align: center;
 }
->>>>>>> e7e3c1b7c0656dc24338c9fe7d3a5d5eb22cc2cd
 
   /* nav-var*/
   .navbar .navbar-nav .nav-link {
@@ -251,23 +238,13 @@ body {
   }
 
 
-<<<<<<< HEAD
 
-
-  /* footer */
-  #footer {
-    background: #222222;
-    padding: 20px 20px;
-    text-align: center;
-  }
-=======
 /* footer */
 #footer {
   background: #222222;
   padding: 20px 20px;
   text-align: center;
 }
->>>>>>> e7e3c1b7c0656dc24338c9fe7d3a5d5eb22cc2cd
 
   #footer p {
     margin-bottom: 5px;
