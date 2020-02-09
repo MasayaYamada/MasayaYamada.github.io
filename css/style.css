@@ -20,6 +20,7 @@ body {
     color: #4169E1;
     font-size: 30px;
   }
+  
 
   /* top */
   #top {
@@ -29,7 +30,7 @@ body {
   }
 
   #top h1 {
-    font-size: 90px;
+    font-size: 70px;
     font-weight: 700;
     letter-spacing: 3px;
     color: #4169E1;

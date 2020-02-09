@@ -1,4 +1,8 @@
 jQuery(document).ready(function( $ ) {
+
+	
+
+
 		if($('#swift').length) {
 			var doughnutData = [{
 	        value: 150,
