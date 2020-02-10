@@ -19,8 +19,8 @@ body {
     font-weight: 400;
     color: #4169E1;
     font-size: 30px;
+    cursor: pointer;
   }
-  
 
   /* top */
   #top {
@@ -224,6 +224,7 @@ body {
   }
   .timeline-title {
     margin-top: 0;
+    font-size: 20px;
     color: inherit;
   }
   .timeline-body > p,
