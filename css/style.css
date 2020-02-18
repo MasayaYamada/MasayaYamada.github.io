@@ -16,7 +16,7 @@ body {
   /* nav-var*/
   .navbar .navbar-nav .nav-link {
     font-weight: 400;
-    color: #4169E1;
+    color: #c0c0c0;
     font-size: 30px;
     cursor: pointer;
   }
@@ -24,8 +24,8 @@ body {
   /* top */
   #top {
     width: 100%;
-    padding-top: 80px;
-    padding-bottom: 10px;
+    padding-top: 50px;
+    padding-bottom: 0px;
   }
 
   #top h1 {
@@ -37,7 +37,7 @@ body {
 
   #top i {
     color: #c0c0c0;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 400;
     padding: 30px;
   }
